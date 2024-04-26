@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hiile is edited from master
+=======
+<<<<<<< HEAD
+this file is edited from master
+=======
+hi this file is edited from first
+>>>>>>> first
+new conflic
+>>>>>>> dec42c6 (m)
