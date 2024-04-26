@@ -1,11 +1,2 @@
-<<<<<<< HEAD
-this file is edited from master
-=======
-hi this file is edited from first
-<<<<<<< HEAD
->>>>>>> first
-new conflic
-=======
-hello
->>>>>>> first
-good evenenig
+ile is edited from master
+this file is edited from first
